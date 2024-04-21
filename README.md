@@ -11,7 +11,7 @@ Affiliation: (1) *European Space Agency (ESA), ESRIN, Φ-lab, Italy, and
 
 (2) #Sapienza University of Rome, Italy
 
-Related paper: [http://arxiv.org/pdf/2404.11302.pdf](http://arxiv.org/pdf/2404.11302.pdf) - arXiv:2404.11302
+Related paper that uses our model: [http://arxiv.org/pdf/2404.11302.pdf](http://arxiv.org/pdf/2404.11302.pdf) - arXiv:2404.11302
 
 Related website: [Click here](http://scholar.google.com/citations?hl=en&user=2UweGHoAAAAJ&view_op=list_works&sortby=pubdate)
 
