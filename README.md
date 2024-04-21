@@ -1,7 +1,7 @@
 # Learning_from_Unlabeled_Data_for_Domain_Adaptation_for_Semantic_Segmentation
 Learning from Unlabeled Data: Domain Adaptation for Semantic Segmentation
 
-Paper: [http://arxiv.org/pdf/2404.11299.pdf](http://arxiv.org/pdf/2404.11299.pdf) - arXiv:2404.11299 
+Paper: [http://arxiv.org/pdf/2404.11299.pdf](http://arxiv.org/pdf/2404.11299.pdf) - arXiv:2404.11299
 
 GitHub repository of the paper: "Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images"
 
@@ -10,6 +10,10 @@ Authors: Nikolaos Dionelis*, Francesco Pro#, Luca Maiano#, Irene Amerini#, Bertr
 Affiliation: (1) *European Space Agency (ESA), ESRIN, Φ-lab, Italy, and
 
 (2) #Sapienza University of Rome, Italy
+
+Related paper: [http://arxiv.org/pdf/2404.11302.pdf](http://arxiv.org/pdf/2404.11302.pdf) - arXiv:2404.11302
+
+Related website: [Click here](http://scholar.google.com/citations?hl=en&user=2UweGHoAAAAJ&view_op=list_works&sortby=pubdate)
 
 Non-annotated Earth Observation Semantic Segmentation (NEOS) model
 
