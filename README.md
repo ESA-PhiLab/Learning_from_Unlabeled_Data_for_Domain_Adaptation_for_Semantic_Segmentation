@@ -1,5 +1,5 @@
 # Learning_from_Unlabeled_Data_for_Domain_Adaptation_for_Semantic_Segmentation
-Learning from Unlabeled Data: Domain Adaptation for Semantic Segmentation
+Learning from Unlabeled EO Data: Domain Adaptation for Semantic Segmentation
 
 Paper: [http://arxiv.org/pdf/2404.11299.pdf](http://arxiv.org/pdf/2404.11299.pdf) - arXiv:2404.11299
 
