@@ -3,11 +3,11 @@ Learning from Unlabeled Data: Domain Adaptation for Semantic Segmentation
 
 Paper: [http://arxiv.org/pdf/2404.11299.pdf](http://arxiv.org/pdf/2404.11299.pdf) - arXiv:2404.11299
 
-GitHub repository of the paper: "Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images"
+GitHub repository of the published paper: "Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images"
 
 Authors: Nikolaos Dionelis*, Francesco Pro#, Luca Maiano#, Irene Amerini#, Bertrand Le Saux*
 
-Affiliation: (1) *European Space Agency (ESA), ESRIN, Φ-lab, Italy, and
+Affiliation: (1) *European Space Agency (ESA), ESRIN, Φ-lab, Italy, and 
 
 (2) #Sapienza University of Rome, Italy
 
