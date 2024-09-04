@@ -102,7 +102,7 @@ If you would like to get in touch, please contact: [Nikolaos.Dionelis@esa.int](m
 
 Paper: "Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images"
 
-Submitted to: IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024) - [IGARSS, Athens](http://www.2024.ieeeigarss.org)
+Published in: IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024) - [IGARSS, Athens](http://www.2024.ieeeigarss.org)
 
 European Space Agency (ESA), ESRIN, Φ-lab, Italy: [ESA Φ-lab](http://philab.esa.int)
 
