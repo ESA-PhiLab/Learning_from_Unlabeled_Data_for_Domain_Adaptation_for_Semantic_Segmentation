@@ -62,7 +62,7 @@ This GitHub code repository contains a PyTorch implementation for the model NEOS
 
 To install the required libraries: Run "pip install -r requirements.txt" from the Terminal.
 
-In Linux, run:
+In the Command Line, run: 
 ```
 git clone <this website.git>
 conda create -n modelNEOS python
